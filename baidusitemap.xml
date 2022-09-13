@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite-url/cn/testblog/</loc>
+    <loc>http://yoursite-url/cn/testblog%20copy%2010/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/cn/testblog%20copy/</loc>
+    <loc>http://yoursite-url/cn/testblog%20copy%2011/</loc>
+    <lastmod>2022-09-12</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite-url/cn/testblog%20copy%2012/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
@@ -14,10 +18,6 @@
   </url>
   <url>
     <loc>http://yoursite-url/cn/testblog%20copy%203/</loc>
-    <lastmod>2022-09-12</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%204/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
@@ -33,6 +33,10 @@
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
+    <loc>http://yoursite-url/cn/testblog%20copy%204/</loc>
+    <lastmod>2022-09-12</lastmod>
+  </url>
+  <url>
     <loc>http://yoursite-url/cn/testblog%20copy%208/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
@@ -41,23 +45,19 @@
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%2010/</loc>
+    <loc>http://yoursite-url/cn/testblog%20copy/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%2011/</loc>
+    <loc>http://yoursite-url/cn/testblog/</loc>
     <lastmod>2022-09-12</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%2012/</loc>
-    <lastmod>2022-09-12</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-04-16</lastmod>
   </url>
   <url>
     <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2020-04-16</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
 </urlset> 
