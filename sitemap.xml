@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/tags/index.html</loc>
+    <loc>http://yoursite-url/about/index.html</loc>
     
     <lastmod>2022-09-13</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>http://yoursite-url/categories/index.html</loc>
+    
+    <lastmod>2022-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/index.html</loc>
     
     <lastmod>2022-09-13</lastmod>
     
@@ -30,21 +37,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%2011/</loc>
-    
-    <lastmod>2022-09-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%2012/</loc>
-    
-    <lastmod>2022-09-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/cn/testblog%20copy%202/</loc>
+    
+    <lastmod>2022-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/testblog%20copy%2011/</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -65,6 +65,20 @@
   </url>
   
   <url>
+    <loc>http://yoursite-url/cn/testblog%20copy%204/</loc>
+    
+    <lastmod>2022-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/testblog%20copy%2012/</loc>
+    
+    <lastmod>2022-09-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/cn/testblog%20copy%206/</loc>
     
     <lastmod>2022-09-12</lastmod>
@@ -73,13 +87,6 @@
   
   <url>
     <loc>http://yoursite-url/cn/testblog%20copy%207/</loc>
-    
-    <lastmod>2022-09-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite-url/cn/testblog%20copy%204/</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -134,17 +141,10 @@
     
   </url>
   
-  <url>
-    <loc>http://yoursite-url/about/index.html</loc>
-    
-    <lastmod>2016-04-20</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2022-09-13</lastmod>
+    <lastmod>2022-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,7 +152,7 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-09-13</lastmod>
+    <lastmod>2022-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,7 +161,7 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-09-13</lastmod>
+    <lastmod>2022-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
